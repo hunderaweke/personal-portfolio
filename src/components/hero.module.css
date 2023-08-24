@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.heroBg {
+  width: 25rem !important;
+}
+.fluidHeight {
+  padding-top: 20vh;
+}
+.skillsTyper {
+  font-weight: 700;
+  background: linear-gradient(to right, #216bf4, #f42242 95%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 1rem;
+}
+.active {
+  background: linear-gradient(to right, #216bf4, #f42242 95%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+.btn {
+  color: #000 !important;
+  border: transparent !important;
+}
+.btn:hover {
+  color: #fff !important;
+  border: transparent !important;
+  background: linear-gradient(to right, #216bf4, #f42242 95%) !important;
+}
+.iconsContainer {
+  font-size: 2rem;
+}
+.iconsContainerText {
+  color: #fff;
+}
